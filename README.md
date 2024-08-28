@@ -1,1 +1,36 @@
-<h1 align="center">Hi 👋, I'm Silindokuhle Mapiyeye</h1> <h3 align="center">I'm a passionate full-stack developer skilled in Node.js, Angular, Vue, and Laravel. Always eager to explore, learn, and build cutting-edge applications.</h3> <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameborder="0" class="giphy-embed" allowfullscreen></iframe> <p align="left"> <img src="https://komarev.com/ghpvc/?username=silindokuhlemapiyeye&label=Profile%20views&color=0e75b6&style=flat" alt="silindokuhlemapiyeye" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silindokuhlemapiyeye" alt="silindokuhlemapiyeye" /></a> </p>
+# Hi there! 👋 I'm Silindokuhle Mapiyeye
+
+I am a full-stack developer specializing in **Laravel**, **Vue.js**, **Next.js**, **React**, **Node.js**, and **Nuxt.js**. I enjoy building robust, scalable applications that deliver seamless user experiences on both the frontend and backend.
+
+---
+
+## 🌟 About Me
+- 💻 Full-Stack Developer with a strong focus on modern web technologies
+- 🔧 Experienced in building RESTful APIs, single-page applications (SPAs), and real-time apps
+- 🌱 Constantly learning and exploring new technologies to enhance my skills
+- 🚀 Passionate about contributing to open-source projects and collaborating with other developers
+
+---
+
+## 🚀 Technologies & Tools
+- **Languages:** JavaScript, PHP, HTML, CSS, SQL
+- **Frameworks:** Laravel, Vue.js, Next.js, React, Node.js, Nuxt.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Docker, Git, GitHub, VS Code, Postman
+- **Others:** Tailwind CSS, Bootstrap, Webpack, REST APIs, GraphQL
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silindokuhleL&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silindokuhleL&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🔗 Let's Connect
+- 🌐 [Portfolio](#) (Coming Soon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/silindokuhleL) 
+- 🐦 [Twitter](https://twitter.com/silindokuhleL)
+- 📧 silindokuhle@example.com
