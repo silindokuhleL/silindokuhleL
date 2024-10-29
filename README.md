@@ -1,5 +1,5 @@
-<div align="center" style="background-color: #0d1117; padding: 20px;">
-  <img src="https://user-images.githubusercontent.com/17039389/175779221-4d0a9d0b-c47f-4be3-b1a8-49a7ced0ad02.png" alt="Banner" />
+<div align="center">
+  <img src="https://via.placeholder.com/1000x400/0d1117/ffffff?text=Silindokuhle+Mapiyeye+-+Full+Stack+Developer" alt="Banner" />
 </div>
 
 <h1 align="center">
@@ -8,49 +8,44 @@
 </h1>
 
 <p align="center">
-  I'm a <strong>Full-Stack Developer</strong> specializing in <strong>Laravel</strong>, <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>Next.js</strong>, <strong>Angular.js</strong>, <strong>React</strong>, and <strong>Node.js</strong>. I enjoy building robust, scalable applications that deliver seamless user experiences across both the frontend and backend.
+  I'm a <strong>Full-Stack Developer</strong> specializing in <strong>Laravel</strong>, <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>Angular.js</strong>, <strong>React</strong>, and <strong>Node.js</strong>. I enjoy building robust, scalable applications that deliver seamless user experiences across both the frontend and backend.
 </p>
 
 ## 🚀 Technologies & Tools
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/17039389/175779445-a3be89d1-7b8c-4641-a3ae-9ebf0ac9daec.png" alt="JavaScript" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779523-52a1fd2f-9f1b-4f29-94dd-02b21fb51f8d.png" alt="PHP" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779568-f12aa41f-1c16-4b4f-86f0-7f130b4ab6d3.png" alt="TypeScript" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779629-0f5b47c5-04b6-4d62-a25e-0d3d1f98d05a.png" alt="SQL" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779693-7f12a4c1-80cb-4d7e-b5f4-ac5eeb678c4c.png" alt="HTML" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779731-1c831099-bcda-4ac0-a719-b38bfe4a5ba1.png" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/17039389/175779780-f06f1d91-d1f9-4355-93df-eed59d4bb937.png" alt="Laravel" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779821-7d14ce0b-2d58-4caa-84fe-5e9d2d1be45b.png" alt="Vue.js" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779865-89b9fc9e-e1b3-4a67-833b-248d2f06d412.png" alt="Nuxt.js" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779899-16aa4c78-ed96-4d12-a32c-f8d9d7412cec.png" alt="Next.js" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779938-e06d2c9b-1b0b-439a-8ee9-8aa0e0cca18e.png" alt="Angular" />
-  <img src="https://user-images.githubusercontent.com/17039389/175779982-0a0f1d7e-b5d8-4d39-a3f9-bb3a15a72d29.png" alt="React" />
-  <img src="https://user-images.githubusercontent.com/17039389/175780023-e8bd00d3-2f02-4837-aae3-a8f4dc993962.png" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/17039389/175780079-1a328e19-d97d-4c64-b6e6-adebe08d3f93.png" alt="MySQL" />
-  <img src="https://user-images.githubusercontent.com/17039389/175780115-a2382d51-d8c4-4c63-95b9-a1f645a1c9e9.png" alt="PostgreSQL" />
-  <img src="https://user-images.githubusercontent.com/17039389/175780149-bc34cf10-cb8d-43d5-8d95-b10a16462ba3.png" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/17039389/175780193-c3d3d45e-7cc8-4333-8bca-11a1a55d751f.png" alt="Docker" />
-  <img src="https://user-images.githubusercontent.com/17039389/175780244-0d0b5d43-5b67-4ebe-ba71-d6c5eb4d5a3f.png" alt="AWS" />
-  <img src="https://user-images.githubusercontent.com/17039389/175780283-8f4f9443-9efe-4883-8aee-19ac5c1beb3f.png" alt="Git" />
-  <img src="https://user-images.githubusercontent.com/17039389/175780323-f02c95f3-5fec-4a46-abbe-f93ab1b7f1f9.png" alt="GitHub" />
-  <img src="https://user-images.githubusercontent.com/17039389/175780357-ebfd6f0c-fd98-4f26-85c8-52c00771b6ca.png" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </div>
 
 ## 🌟 About Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/17039389/175780410-b3a33e96-79f1-4bf7-b602-d8eac8b2975f.png" alt="Programmer" />
-</div>
 
 - 💻 Experienced **Full-Stack Developer** with a strong focus on modern web technologies and best practices.
 - 🔧 Skilled in building **RESTful APIs**, **single-page applications (SPAs)**, and **real-time applications**.
@@ -66,10 +61,6 @@
 
 ## 🌍 Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/17039389/175780529-d556bf9b-ce66-4a22-864e-a2c3f3a3f65b.png" alt="Project" />
-</div>
-
 - **[Project One](#)** – *Brief description of the project,* highlighting the technologies used and unique features or challenges.
 - **[Project Two](#)** – *Description focusing on the value it adds or the problem it solves.*
 
@@ -79,30 +70,22 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/silindokuhleL">
-    <img src="https://user-images.githubusercontent.com/17039389/175780617-dfcdca0d-9a5f-48ef-8cde-17a5f6dd6d98.png" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/silindokuhleL">
-    <img src="https://user-images.githubusercontent.com/17039389/175780658-9b6d5af9-f8dc-46f9-99ec-b1f29b8fcdbd.png" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:silindokuhle@example.com">
-    <img src="https://user-images.githubusercontent.com/17039389/175780703-ae3dba4a-ef5b-4616-a1fa-dcf8d47f619e.png" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 ## 🏆 Achievements & Goals
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/17039389/175780782-21bb7a1d-8e52-4ab4-97f9-d94b84d8eef7.png" alt="Achievements" />
-</div>
-
 - 🎖 Notable contributions in **open-source projects** and **personal projects.**
 - 🎯 Future goals: Deepen expertise in **cloud computing,** **data structures,** and **scalable architecture.**
 
 ## 📌 Additional Notes
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/17039389/175780847-ccc7f249-9d5a-4b04-9b87-2a430f10a51b.png" alt="Notes" />
-</div>
 
 - Proficient in **software troubleshooting** and **system integration.**
 - Strong understanding of **data structures, algorithms,** and best practices in both frontend and backend.
