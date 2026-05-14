@@ -1,82 +1,51 @@
 # Silindokuhle Mapiyeye
 
-Full-Stack SaaS Engineer focused on Laravel, Next.js, REST APIs, RBAC, payments, AI workflows, queues, caching, and cloud deployments.
+Full-Stack SaaS Engineer building Laravel and Next.js systems with strong backend foundations.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge&logo=vercel)](https://mapiyeyes-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/silindokuhle-mapiyeye-developer)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:slmapiyeye@gmail.com)
+I work across product interfaces, APIs, authentication, RBAC, payments, AI workflows, queues, caching, and cloud deployment. I care about systems that are understandable, maintainable, and useful in real business workflows.
 
-## What I Build
+Portfolio: [mapiyeyes-portfolio.vercel.app](https://mapiyeyes-portfolio.vercel.app)  
+LinkedIn: [linkedin.com/in/silindokuhle-mapiyeye-developer](https://www.linkedin.com/in/silindokuhle-mapiyeye-developer)  
+Email: [slmapiyeye@gmail.com](mailto:slmapiyeye@gmail.com)
 
-I build SaaS-style systems where the backend matters as much as the interface: authentication, roles and permissions, payments, integrations, queues, caching, deployment, and maintainable API design.
+## Focus
 
-My strongest work sits at the intersection of:
+- Laravel, PHP, REST APIs, MySQL, Redis, queues, and backend architecture
+- Next.js, React, TypeScript, Tailwind CSS, and product-facing interfaces
+- Auth flows, roles, permissions, dashboards, payments, and integrations
+- AWS, Docker, Laravel Forge, CI/CD, Linux, and deployment support
+- Turning local/private work into clear public proof through case studies and documentation
 
-- Laravel and PHP application architecture
-- Next.js and React product interfaces
-- REST APIs and frontend/backend integration
-- RBAC, auth flows, and admin systems
-- Payment workflows and business operations
-- AWS, Docker, deployment, and production support
+## Current Direction
 
-## Current Focus
+I am building a stronger public engineering profile around practical SaaS proof:
 
-- Building stronger public proof through polished portfolio case studies.
-- Creating from-scratch SaaS projects with clean architecture and real user workflows.
-- Improving cloud and AWS fundamentals while preparing for certification.
-- Turning private/local project work into public, understandable engineering evidence.
+- New from-scratch projects with clean architecture and real workflows
+- Better project READMEs, screenshots, and deployment notes
+- Stronger AWS and cloud fundamentals
+- A portfolio that explains decisions, tradeoffs, and outcomes instead of only listing tools
 
-## Core Stack
+## Public Work
 
-```ts
-const silindokuhle = {
-  role: "Full-Stack SaaS Engineer",
-  backend: ["Laravel", "PHP", "REST APIs", "MySQL", "Redis", "Queues"],
-  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  productSystems: ["RBAC", "Payments", "Dashboards", "Integrations", "AI Workflows"],
-  cloudAndOps: ["AWS", "Docker", "Laravel Forge", "CI/CD", "Linux"],
-  portfolio: "https://mapiyeyes-portfolio.vercel.app",
-  contact: "slmapiyeye@gmail.com",
-};
-```
+| Project | What it shows |
+| --- | --- |
+| [Personal Developer Portfolio](https://github.com/silindokuhleL/mapiyeyes-portfolio) | Live proof hub for CV, skills, experience, DevOps positioning, and case studies |
+| [Document Search Portal](https://github.com/silindokuhleL/document-search-portal) | Upload, parsing, search relevance, suggestions, highlighting, pagination, and caching |
+| [Risk Management Frontend](https://github.com/silindokuhleL/risk-management-front-end-next) | Next.js product UI direction for protected workflows and risk-management screens |
+| [Risk Management Backend API](https://github.com/silindokuhleL/rick-management-backend-api) | Laravel API foundations for auth, protected workflows, roles, and permissions |
+| [Prosuite Chatbot Hackathon](https://github.com/silindokuhleL/prosuite-chatbot-hackathon) | AI-assisted product support and guided chatbot interaction prototype |
 
-## Featured Public Work
+## Working Style
 
-- [Personal Developer Portfolio](https://github.com/silindokuhleL/mapiyeyes-portfolio)  
-  A live proof hub for my skills, projects, CV, and engineering positioning.
-
-- [Document Search Portal](https://github.com/silindokuhleL/document-search-portal)  
-  Document upload and search system with parsing, search relevance, suggestions, highlighting, pagination, and caching.
-
-- [Risk Management Frontend](https://github.com/silindokuhleL/risk-management-front-end-next)  
-  Next.js frontend for protected product workflows and risk-management UI direction.
-
-- [Risk Management Backend API](https://github.com/silindokuhleL/rick-management-backend-api)  
-  Laravel API backend for auth, protected workflows, roles, permissions, and SaaS-style admin foundations.
-
-- [Prosuite Chatbot Hackathon](https://github.com/silindokuhleL/prosuite-chatbot-hackathon)  
-  Next.js chatbot prototype exploring AI-assisted product support and guided interactions.
-
-## Portfolio
-
-The best place to understand my current direction is my live portfolio:
-
-**https://mapiyeyes-portfolio.vercel.app**
-
-It includes my CV, experience, project proof, DevOps positioning, and case-study roadmap.
-
-## GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=silindokuhleL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Silindokuhle's GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silindokuhleL&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
-</p>
+- I prefer backend clarity over cleverness.
+- I document setup, decisions, and proof as the project matures.
+- I keep uncertain claims out of public pages until they are verified.
+- I care about mobile responsiveness, usable workflows, and deployment readiness.
 
 ## Contact
 
-- Email: [slmapiyeye@gmail.com](mailto:slmapiyeye@gmail.com)
-- LinkedIn: [linkedin.com/in/silindokuhle-mapiyeye-developer](https://www.linkedin.com/in/silindokuhle-mapiyeye-developer)
-- Portfolio: [mapiyeyes-portfolio.vercel.app](https://mapiyeyes-portfolio.vercel.app)
+The best starting point is my portfolio:
+
+[https://mapiyeyes-portfolio.vercel.app](https://mapiyeyes-portfolio.vercel.app)
+
+For direct contact, email [slmapiyeye@gmail.com](mailto:slmapiyeye@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/silindokuhle-mapiyeye-developer).
