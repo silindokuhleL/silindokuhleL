@@ -8,6 +8,8 @@ I like building systems where the backend is clear, the interface is usable, and
 | --- | --- | --- |
 | [mapiyeyes-portfolio.vercel.app](https://mapiyeyes-portfolio.vercel.app) | [silindokuhle-mapiyeye-developer](https://www.linkedin.com/in/silindokuhle-mapiyeye-developer) | [slmapiyeye@gmail.com](mailto:slmapiyeye@gmail.com) |
 
+![Animated skill showcase for Laravel, Next.js, React, TypeScript, AWS, Docker, APIs, RBAC, payments, and AI workflows](./assets/skill-showcase.svg)
+
 ---
 
 ## Engineering Snapshot
