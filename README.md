@@ -1,3 +1,15 @@
+<div align="center">
+
+# Silindokuhle Mapiyeye
+
+Full-Stack SaaS Engineer focused on Laravel, Next.js, APIs, RBAC, payments, AI workflows, queues, caching, and cloud deployments.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge&logo=vercel)](https://mapiyeyes-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/silindokuhle-mapiyeye-developer)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:slmapiyeye@gmail.com)
+
+</div>
+
 ```typescript
 /**
  * @fileoverview Developer Profile Configuration
@@ -49,11 +61,12 @@ const SilindokuhleMapiyeye: DeveloperProfile = {
 
     "contact_matrix": {
       "primary": {
-        "email": "silindokuhle@example.com",
+        "email": "slmapiyeye@gmail.com",
         "response_time": "< 24 hours"
       },
       "professional": {
-        "linkedin": "https://linkedin.com/in/silindokuhleL",
+        "linkedin": "https://www.linkedin.com/in/silindokuhle-mapiyeye-developer",
+        "portfolio": "https://mapiyeyes-portfolio.vercel.app",
         "activity_level": "active"
       },
       "development": {
@@ -488,10 +501,10 @@ console.log(skills.deployment.availability.status); // "available_for_hire"
 
 ### 🔌 Connect to Developer API
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-API%20v2.0-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/silindokuhleL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge&logo=vercel)](https://mapiyeyes-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-API%20v2.0-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/silindokuhle-mapiyeye-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-REST%20API-181717?style=for-the-badge&logo=github)](https://github.com/silindokuhleL)
-[![Email](https://img.shields.io/badge/SMTP-Protocol-EA4335?style=for-the-badge&logo=gmail)](mailto:silindokuhle@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GraphQL-FF6B6B?style=for-the-badge&logo=safari)](#)
+[![Email](https://img.shields.io/badge/SMTP-Protocol-EA4335?style=for-the-badge&logo=gmail)](mailto:slmapiyeye@gmail.com)
 
 ---
 
