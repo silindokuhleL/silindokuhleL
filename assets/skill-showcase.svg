@@ -1,183 +1,112 @@
 <svg width="1100" height="360" viewBox="0 0 1100 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Silindokuhle Mapiyeye skill showcase</title>
-  <desc id="desc">Animated skill wall showing Laravel, PHP, Next.js, React, TypeScript, Tailwind, MySQL, Redis, Docker, AWS, Vercel, GitHub, Linux, APIs, RBAC, payments, and AI workflows.</desc>
+  <title id="title">Client-ready SaaS skill showcase</title>
+  <desc id="desc">A premium dark green animated skill showcase for Laravel, Next.js, Stripe, PHP, Sanctum, Inertia.js, React, TypeScript, Tailwind, AWS, Vercel, Docker, GitHub Actions, APIs, RBAC, and payments.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07130E"/>
-      <stop offset="0.48" stop-color="#0B1F16"/>
-      <stop offset="1" stop-color="#F7FFF9"/>
+      <stop stop-color="#050B08"/>
+      <stop offset="0.52" stop-color="#0B1F16"/>
+      <stop offset="1" stop-color="#123B25"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#3EE27F" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#B7FFD3" stop-opacity="0.25"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#E9FFF0"/>
+      <stop offset="1" stop-color="#3EE27F"/>
     </linearGradient>
-    <filter id="softGlow" x="-20%" y="-30%" width="140%" height="160%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.12 0 0 0 0 0.88 0 0 0 0 0.42 0 0 0 0.65 0"/>
+    <filter id="glow" x="-30%" y="-40%" width="160%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="14"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.10 0 0 0 0 0.95 0 0 0 0 0.45 0 0 0 0.5 0"/>
       <feBlend in="SourceGraphic"/>
     </filter>
+    <clipPath id="clip">
+      <rect x="424" y="42" width="620" height="276" rx="24"/>
+    </clipPath>
     <style>
-      .panel { fill: rgba(255,255,255,0.08); stroke: rgba(255,255,255,0.18); }
-      .tile { fill: rgba(255,255,255,0.1); stroke: rgba(255,255,255,0.22); }
-      .tileDark { fill: rgba(7,19,14,0.82); stroke: rgba(62,226,127,0.35); }
-      .label { fill: #F7FFF9; font: 700 18px Inter, Arial, sans-serif; letter-spacing: 0; }
-      .small { fill: #C9F7D8; font: 600 12px Inter, Arial, sans-serif; letter-spacing: 0.04em; }
-      .muted { fill: #DDFBE7; font: 500 14px Inter, Arial, sans-serif; }
-      .title { fill: #FFFFFF; font: 800 34px Inter, Arial, sans-serif; letter-spacing: 0; }
-      .chipText { fill: #F7FFF9; font: 800 15px Inter, Arial, sans-serif; letter-spacing: 0; }
-      .iconText { fill: #07130E; font: 900 15px Inter, Arial, sans-serif; }
+      .kicker { fill: #A7F3D0; font: 700 13px Arial, sans-serif; letter-spacing: 0.08em; }
+      .title { fill: #FFFFFF; font: 800 34px Arial, sans-serif; letter-spacing: 0; }
+      .copy { fill: #DDFBE7; font: 500 16px Arial, sans-serif; }
+      .small { fill: #BFEFD0; font: 600 12px Arial, sans-serif; letter-spacing: 0.04em; }
+      .tile { fill: rgba(255,255,255,0.08); stroke: rgba(217,255,231,0.18); }
+      .tileCore { fill: rgba(62,226,127,0.16); stroke: rgba(62,226,127,0.52); }
+      .label { fill: #F7FFF9; font: 800 15px Arial, sans-serif; }
+      .mark { fill: #07130E; font: 900 16px Arial, sans-serif; }
       @media (prefers-reduced-motion: reduce) {
         animateTransform, animate { display: none; }
       }
     </style>
   </defs>
 
-  <rect width="1100" height="360" rx="26" fill="url(#bg)"/>
-  <circle cx="1010" cy="74" r="180" fill="#42E883" opacity="0.14" filter="url(#softGlow)"/>
-  <circle cx="116" cy="296" r="160" fill="#18A957" opacity="0.22" filter="url(#softGlow)"/>
-  <path d="M38 294C188 220 346 335 501 254C655 174 813 211 1062 111" stroke="url(#glow)" stroke-width="2" opacity="0.55"/>
+  <rect width="1100" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="986" cy="66" r="148" fill="#3EE27F" opacity="0.11" filter="url(#glow)"/>
+  <circle cx="92" cy="316" r="180" fill="#3EE27F" opacity="0.08" filter="url(#glow)"/>
+  <path d="M64 302C214 241 355 287 488 229C620 171 765 192 1036 86" stroke="#3EE27F" stroke-opacity="0.34" stroke-width="2"/>
 
-  <g transform="translate(48 44)">
-    <rect class="panel" x="0" y="0" width="384" height="272" rx="22"/>
-    <text class="small" x="30" y="44">PUBLIC ENGINEERING PROFILE</text>
-    <text class="title" x="30" y="88">Skill Stack</text>
-    <text class="muted" x="30" y="124">Laravel backends, Next.js interfaces,</text>
-    <text class="muted" x="30" y="148">RBAC workflows, payments, cloud, and AI tools.</text>
-
-    <g transform="translate(30 184)">
-      <rect x="0" y="0" width="92" height="42" rx="13" fill="#3EE27F"/>
-      <text class="iconText" x="21" y="27">API</text>
-      <rect x="106" y="0" width="92" height="42" rx="13" fill="#F7FFF9"/>
-      <text class="iconText" x="126" y="27">SaaS</text>
-      <rect x="212" y="0" width="112" height="42" rx="13" fill="#A7F3D0"/>
-      <text class="iconText" x="236" y="27">Cloud</text>
+  <g transform="translate(52 48)">
+    <rect x="0" y="0" width="328" height="264" rx="24" fill="rgba(255,255,255,0.06)" stroke="rgba(217,255,231,0.18)"/>
+    <text class="kicker" x="28" y="46">CLIENT-READY STACK</text>
+    <text class="title" x="28" y="88">Laravel +</text>
+    <text class="title" x="28" y="128">Next.js + Stripe</text>
+    <text class="copy" x="28" y="168">SaaS platforms, payment flows,</text>
+    <text class="copy" x="28" y="192">dashboards, APIs, and production</text>
+    <text class="copy" x="28" y="216">handoff documentation.</text>
+    <g transform="translate(28 232)">
+      <circle cx="9" cy="9" r="9" fill="#3EE27F"/>
+      <text class="small" x="28" y="13">AVAILABLE FOR FREELANCE WORK</text>
     </g>
   </g>
 
-  <g transform="translate(478 55)">
-    <rect class="panel" x="0" y="0" width="574" height="250" rx="22"/>
-    <clipPath id="skillClip">
-      <rect x="18" y="24" width="538" height="202" rx="18"/>
-    </clipPath>
-    <g clip-path="url(#skillClip)">
-      <g>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="-564 0" dur="20s" repeatCount="indefinite"/>
-        <g transform="translate(0 0)">
-          <g transform="translate(30 30)">
-            <rect class="tileDark" width="128" height="54" rx="15"/><text class="chipText" x="21" y="34">Laravel</text>
-          </g>
-          <g transform="translate(174 30)">
-            <rect class="tile" width="92" height="54" rx="15"/><text class="chipText" x="28" y="34">PHP</text>
-          </g>
-          <g transform="translate(282 30)">
-            <rect class="tileDark" width="112" height="54" rx="15"/><text class="chipText" x="24" y="34">Next.js</text>
-          </g>
-          <g transform="translate(410 30)">
-            <rect class="tile" width="106" height="54" rx="15"/><text class="chipText" x="29" y="34">React</text>
-          </g>
-          <g transform="translate(532 30)">
-            <rect class="tileDark" width="134" height="54" rx="15"/><text class="chipText" x="24" y="34">TypeScript</text>
-          </g>
-        </g>
-        <g transform="translate(564 0)">
-          <g transform="translate(30 30)">
-            <rect class="tileDark" width="128" height="54" rx="15"/><text class="chipText" x="21" y="34">Laravel</text>
-          </g>
-          <g transform="translate(174 30)">
-            <rect class="tile" width="92" height="54" rx="15"/><text class="chipText" x="28" y="34">PHP</text>
-          </g>
-          <g transform="translate(282 30)">
-            <rect class="tileDark" width="112" height="54" rx="15"/><text class="chipText" x="24" y="34">Next.js</text>
-          </g>
-          <g transform="translate(410 30)">
-            <rect class="tile" width="106" height="54" rx="15"/><text class="chipText" x="29" y="34">React</text>
-          </g>
-          <g transform="translate(532 30)">
-            <rect class="tileDark" width="134" height="54" rx="15"/><text class="chipText" x="24" y="34">TypeScript</text>
-          </g>
-        </g>
-      </g>
+  <g clip-path="url(#clip)">
+    <rect x="424" y="42" width="620" height="276" rx="24" fill="rgba(255,255,255,0.05)" stroke="rgba(217,255,231,0.16)"/>
 
-      <g>
-        <animateTransform attributeName="transform" type="translate" from="-524 0" to="0 0" dur="22s" repeatCount="indefinite"/>
-        <g transform="translate(0 82)">
-          <g transform="translate(24 30)">
-            <rect class="tile" width="132" height="54" rx="15"/><text class="chipText" x="24" y="34">Tailwind</text>
-          </g>
-          <g transform="translate(172 30)">
-            <rect class="tileDark" width="98" height="54" rx="15"/><text class="chipText" x="25" y="34">MySQL</text>
-          </g>
-          <g transform="translate(286 30)">
-            <rect class="tile" width="94" height="54" rx="15"/><text class="chipText" x="24" y="34">Redis</text>
-          </g>
-          <g transform="translate(396 30)">
-            <rect class="tileDark" width="112" height="54" rx="15"/><text class="chipText" x="27" y="34">Docker</text>
-          </g>
-          <g transform="translate(524 30)">
-            <rect class="tile" width="92" height="54" rx="15"/><text class="chipText" x="28" y="34">AWS</text>
-          </g>
-        </g>
-        <g transform="translate(524 82)">
-          <g transform="translate(24 30)">
-            <rect class="tile" width="132" height="54" rx="15"/><text class="chipText" x="24" y="34">Tailwind</text>
-          </g>
-          <g transform="translate(172 30)">
-            <rect class="tileDark" width="98" height="54" rx="15"/><text class="chipText" x="25" y="34">MySQL</text>
-          </g>
-          <g transform="translate(286 30)">
-            <rect class="tile" width="94" height="54" rx="15"/><text class="chipText" x="24" y="34">Redis</text>
-          </g>
-          <g transform="translate(396 30)">
-            <rect class="tileDark" width="112" height="54" rx="15"/><text class="chipText" x="27" y="34">Docker</text>
-          </g>
-          <g transform="translate(524 30)">
-            <rect class="tile" width="92" height="54" rx="15"/><text class="chipText" x="28" y="34">AWS</text>
-          </g>
-        </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-520 0" dur="19s" repeatCount="indefinite"/>
+      <g transform="translate(448 74)">
+        <rect class="tileCore" width="122" height="58" rx="16"/><text class="label" x="27" y="36">Laravel</text>
+        <rect class="tileCore" x="138" width="120" height="58" rx="16"/><text class="label" x="163" y="36">Next.js</text>
+        <rect class="tileCore" x="274" width="104" height="58" rx="16"/><text class="label" x="303" y="36">Stripe</text>
+        <rect class="tile" x="394" width="100" height="58" rx="16"/><text class="label" x="425" y="36">SaaS</text>
+        <rect class="tile" x="510" width="94" height="58" rx="16"/><text class="label" x="537" y="36">RBAC</text>
       </g>
+      <g transform="translate(968 74)">
+        <rect class="tileCore" width="122" height="58" rx="16"/><text class="label" x="27" y="36">Laravel</text>
+        <rect class="tileCore" x="138" width="120" height="58" rx="16"/><text class="label" x="163" y="36">Next.js</text>
+        <rect class="tileCore" x="274" width="104" height="58" rx="16"/><text class="label" x="303" y="36">Stripe</text>
+        <rect class="tile" x="394" width="100" height="58" rx="16"/><text class="label" x="425" y="36">SaaS</text>
+        <rect class="tile" x="510" width="94" height="58" rx="16"/><text class="label" x="537" y="36">RBAC</text>
+      </g>
+    </g>
 
-      <g>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="-560 0" dur="24s" repeatCount="indefinite"/>
-        <g transform="translate(0 164)">
-          <g transform="translate(30 30)">
-            <rect class="tileDark" width="104" height="54" rx="15"/><text class="chipText" x="25" y="34">Vercel</text>
-          </g>
-          <g transform="translate(150 30)">
-            <rect class="tile" width="104" height="54" rx="15"/><text class="chipText" x="24" y="34">GitHub</text>
-          </g>
-          <g transform="translate(270 30)">
-            <rect class="tileDark" width="92" height="54" rx="15"/><text class="chipText" x="27" y="34">Linux</text>
-          </g>
-          <g transform="translate(378 30)">
-            <rect class="tile" width="86" height="54" rx="15"/><text class="chipText" x="27" y="34">API</text>
-          </g>
-          <g transform="translate(480 30)">
-            <rect class="tileDark" width="94" height="54" rx="15"/><text class="chipText" x="24" y="34">RBAC</text>
-          </g>
-          <g transform="translate(590 30)">
-            <rect class="tile" width="116" height="54" rx="15"/><text class="chipText" x="24" y="34">AI Tools</text>
-          </g>
-        </g>
-        <g transform="translate(560 164)">
-          <g transform="translate(30 30)">
-            <rect class="tileDark" width="104" height="54" rx="15"/><text class="chipText" x="25" y="34">Vercel</text>
-          </g>
-          <g transform="translate(150 30)">
-            <rect class="tile" width="104" height="54" rx="15"/><text class="chipText" x="24" y="34">GitHub</text>
-          </g>
-          <g transform="translate(270 30)">
-            <rect class="tileDark" width="92" height="54" rx="15"/><text class="chipText" x="27" y="34">Linux</text>
-          </g>
-          <g transform="translate(378 30)">
-            <rect class="tile" width="86" height="54" rx="15"/><text class="chipText" x="27" y="34">API</text>
-          </g>
-          <g transform="translate(480 30)">
-            <rect class="tileDark" width="94" height="54" rx="15"/><text class="chipText" x="24" y="34">RBAC</text>
-          </g>
-          <g transform="translate(590 30)">
-            <rect class="tile" width="116" height="54" rx="15"/><text class="chipText" x="24" y="34">AI Tools</text>
-          </g>
-        </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="23s" repeatCount="indefinite"/>
+      <g transform="translate(448 154)">
+        <rect class="tile" width="86" height="58" rx="16"/><text class="label" x="28" y="36">PHP</text>
+        <rect class="tile" x="102" width="118" height="58" rx="16"/><text class="label" x="128" y="36">Sanctum</text>
+        <rect class="tile" x="236" width="124" height="58" rx="16"/><text class="label" x="263" y="36">Inertia.js</text>
+        <rect class="tile" x="376" width="104" height="58" rx="16"/><text class="label" x="407" y="36">React</text>
+        <rect class="tile" x="496" width="136" height="58" rx="16"/><text class="label" x="522" y="36">TypeScript</text>
+      </g>
+      <g transform="translate(948 154)">
+        <rect class="tile" width="86" height="58" rx="16"/><text class="label" x="28" y="36">PHP</text>
+        <rect class="tile" x="102" width="118" height="58" rx="16"/><text class="label" x="128" y="36">Sanctum</text>
+        <rect class="tile" x="236" width="124" height="58" rx="16"/><text class="label" x="263" y="36">Inertia.js</text>
+        <rect class="tile" x="376" width="104" height="58" rx="16"/><text class="label" x="407" y="36">React</text>
+        <rect class="tile" x="496" width="136" height="58" rx="16"/><text class="label" x="522" y="36">TypeScript</text>
+      </g>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-536 0" dur="26s" repeatCount="indefinite"/>
+      <g transform="translate(448 234)">
+        <rect class="tile" width="112" height="58" rx="16"/><text class="label" x="27" y="36">Tailwind</text>
+        <rect class="tile" x="128" width="90" height="58" rx="16"/><text class="label" x="159" y="36">AWS</text>
+        <rect class="tile" x="234" width="104" height="58" rx="16"/><text class="label" x="262" y="36">Vercel</text>
+        <rect class="tile" x="354" width="110" height="58" rx="16"/><text class="label" x="382" y="36">Docker</text>
+        <rect class="tile" x="480" width="156" height="58" rx="16"/><text class="label" x="507" y="36">GitHub Actions</text>
+      </g>
+      <g transform="translate(984 234)">
+        <rect class="tile" width="112" height="58" rx="16"/><text class="label" x="27" y="36">Tailwind</text>
+        <rect class="tile" x="128" width="90" height="58" rx="16"/><text class="label" x="159" y="36">AWS</text>
+        <rect class="tile" x="234" width="104" height="58" rx="16"/><text class="label" x="262" y="36">Vercel</text>
+        <rect class="tile" x="354" width="110" height="58" rx="16"/><text class="label" x="382" y="36">Docker</text>
+        <rect class="tile" x="480" width="156" height="58" rx="16"/><text class="label" x="507" y="36">GitHub Actions</text>
       </g>
     </g>
   </g>
