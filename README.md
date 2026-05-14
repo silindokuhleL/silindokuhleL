@@ -106,4 +106,4 @@ I am currently available for freelance work on SaaS platforms, dashboards, Larav
 Send a short message with what you want to build: [slmapiyeye@gmail.com](mailto:slmapiyeye@gmail.com)
 
 Portfolio: [https://mapiyeyes-portfolio.vercel.app](https://mapiyeyes-portfolio.vercel.app)  
-LinkedIn: [https://www.linkedin.com/in/silindokuhle-mapiyeye-developer](https://www.linkedin.com/in/silindokuhle-mapiyeye-developer)
+LinkedIn: [https://www.linkedin.com/in/silindokuhle-mapiyeye](https://www.linkedin.com/in/silindokuhle-mapiyeye)
