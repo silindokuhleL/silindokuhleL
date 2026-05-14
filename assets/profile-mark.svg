@@ -1,0 +1,20 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Silindokuhle Mapiyeye profile mark</title>
+  <desc id="desc">A premium dark green profile mark with the initials SM for Silindokuhle Mapiyeye.</desc>
+  <defs>
+    <linearGradient id="bg" x1="30" y1="24" x2="210" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06140E"/>
+      <stop offset="0.52" stop-color="#0B2A1A"/>
+      <stop offset="1" stop-color="#145C32"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="60" y1="48" x2="190" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9FFE7"/>
+      <stop offset="1" stop-color="#3EE27F"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="220" height="220" rx="48" fill="url(#bg)"/>
+  <rect x="22" y="22" width="196" height="196" rx="38" stroke="#D9FFE7" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M60 150C76 168 103 174 121 158C137 143 126 124 101 118C80 113 63 105 63 83C63 61 84 48 109 48C128 48 144 55 156 67" stroke="url(#accent)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M84 184V91L121 132L158 91V184" stroke="#F7FFF9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="184" cy="56" r="14" fill="#3EE27F"/>
+</svg>
